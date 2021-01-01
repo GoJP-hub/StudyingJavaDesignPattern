@@ -1,6 +1,6 @@
 package designpattern.iterator;
 
-public class Main {
+public class MainIterator {
 	public static void main(String[] args) {
 		/****************************************
 		 * Description--Create bookshelf
